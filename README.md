@@ -1,2 +1,2 @@
 ﻿# JS-HTML-CSS
-In this repo I will add all my JS-HTML-CSS work, which will aid me in creating my personal portfolio 
+In this repo, I will add all my JS-HTML-CSS work that will aid me in creating my personal portfolio.
